@@ -19,7 +19,7 @@ const Network: React.FC<NetworkProps> = ({ changeNetwork, onOpen }) => {
         aria-label="Wallet Settings"
         icon={<SettingsIcon fontSize="28px" />}
         variant="ghost"
-        size="2xl"
+        size="lg"
       />
     </Flex>
   );
